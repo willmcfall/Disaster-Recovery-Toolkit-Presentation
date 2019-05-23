@@ -2,3 +2,14 @@
   ul li::before {
     list-style-type: square;
   }
+
+  .jumbotron{
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+  }
+
+  .jumbotron_image{
+    height: 20px;
+    margin: 15px;
+  }
